@@ -1,6 +1,7 @@
 # plant widget
 ## pengertian widget
 - [x] Widget adalah sebuah “perwakilan” dari aplikasi yang memungkinkan pengguna untuk dapat menggunakan fitur dari aplikasi yang diwakilkan tersebut secara langsung tanpa harus membuka aplikasi “sesungguhnya”
+
 - [x] Widget adalah cara yang menyenangkan dan mudah untuk berinteraksi dengan aplikasi apa pun, namun dapat menghabiskan sumber daya jika tidak dikelola dengan baik
 
 
