@@ -6,7 +6,7 @@ menggunakan fitur dari aplikasi yang diwakilkan tersebut secara langsung tanpa h
 
 
 ### ScreenShot
-> Tampilan pertama aplikasi sebelum ditambahkan <
+> Tampilan pertama aplikasi sebelum ditambahkan >
 ![Screenshot_20200904-110153_MyGarden](https://user-images.githubusercontent.com/54633534/92201601-30914f80-eea7-11ea-8215-13ede0cde234.jpg)
 > Klik floating action button dan akan muncul tampilan untuk menambahkan tanaman
 ![Screenshot_20200904-110158_MyGarden](https://user-images.githubusercontent.com/54633534/92201630-41da5c00-eea7-11ea-971c-3b759a825c76.jpg)
